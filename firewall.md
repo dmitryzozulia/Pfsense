@@ -30,6 +30,6 @@ Większość firewalli nie posiada lub ma bardzo ubogą możliwość kontroli ta
   - None – nie przetrzymuje żadnych stanów dla ruchu sieciowego
 - Optymalizacja tablicy stanów – pfSense oferuje 4 opcje dla optymalizacji:
   - Normal – domyślny algorytm
-gh latency – pomocne dla łączy z dużym opóźnieniem, jak np. łącza satelitarne – wydłuża czas trwania połączeń
-Aggressive – zakańcza połączenia znacznie szybciej, efektywniej używa zasoby, jednak może wystąpić odrzucanie spodziewanych połączeń
-Conservative – stara się zapobiegać odrzucaniu spodziewanych połączeń kosztem zwiększonego zużycia CPU i pamięci RAM
+  - High latency – pomocne dla łączy z dużym opóźnieniem, jak np. łącza satelitarne – wydłuża czas trwania połączeń
+  - Aggressive – zakańcza połączenia znacznie szybciej, efektywniej używa zasoby, jednak może wystąpić odrzucanie spodziewanych połączeń
+  - Conservative – stara się zapobiegać odrzucaniu spodziewanych połączeń kosztem zwiększonego zużycia CPU i pamięci RAM
