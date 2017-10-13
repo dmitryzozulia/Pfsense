@@ -11,3 +11,5 @@ Podobnie jak wiele innych systemów operacyjnych przeznaczonych do serwowania us
 **&gt; PODSTAWOWE FUNKCJE PFSENSE**
 
 Jedną z funkcji, jaką może pełnić pfSense, jest firewall. Filtrowanie ruchu sieciowego odbywa się z wykorzystaniem reguł oraz przy użyciu dodatkowych, często ciekawych, mechanizmów. Należy do nich m.in. p0f – narzędzie wykorzystywane przez pfSense do rozpoznawania systemu operacyjnego urządzenia generującego w danej chwili ruch sieciowy.
+
+### [Instalacja PFsense](instalacja_pfsense.md)
