@@ -1,7 +1,7 @@
 # Pfsense
 Instalacja, instrukcja, konfiguracja podstawowa
+![](https://habrastorage.org/getpro/habr/post_images/1f8/03c/f40/1f803cf40067b629be332b8c8d09fba2.png)
 **PfSense**
-
 PfSense to system operacyjny, który powstał na bazie FreeBSD. W kontekście pełnienia ról sieciowych jest to ogromna zaleta – zarówno FreeBSD, jak i inne systemy z rodziny BSD są bowiem rozwijane właśnie z myślą o usługach sieciowych. Szczególny nacisk położono na stabilność działania oraz bezpieczeństwo. Dobrze skonfigurowany system będzie działał bez problemów przez długie lata, a ewentualne przestoje najczęściej będą wynikać z problemów sprzętowych.Trzeba przyznać, że twórcy pfSense bardzo celnie wybrali fundament dla swoich dalszych prac.
 
 Użyte w nazwie systemu litery „pf&quot; zdradzają użycie oprogramowanie Packet Filter – znanego z OpenBSD narzędzia do filtrowania ruchu i realizowania funkcji NAT oraz QoS. To nie jest jedyny mechanizm zaczerpnięty z OpenBSD. Kolejny to protokół CARP (Common Address Redundancy Protocol) służący do budowania rozwiązań sieciowych odpornych na awarie sprzętowe. Za pomocą tego protokołu można połączyć ze sobą dwa firewalle lub więcej. Gdy urządzenie aktywne ulegnie awarii, drugi firewall przejmie jego funkcje, zachowując jednocześnie identyczną konfigurację, jaką wcześniej miał aktywny firewall (tę bardzo ciekawą funkcję opiszemy szerzej w dalszej części artykułu). Wśród pakietów dostępnych do instalacji znajduje się też całe mnóstwo narzędzi realizujących funkcje sieciowe i diagnostyczne, a wywodzących się z OpenBSD.
