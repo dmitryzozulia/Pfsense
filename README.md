@@ -1,3 +1,4 @@
+![](https://habrastorage.org/getpro/habr/post_images/1f8/03c/f40/1f803cf40067b629be332b8c8d09fba2.png)
 # Pfsense
 Instalacja, instrukcja, konfiguracja podstawowa
 **PfSense**
