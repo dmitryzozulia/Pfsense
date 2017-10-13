@@ -1,6 +1,5 @@
 # Pfsense
 Instalacja, instrukcja, konfiguracja podstawowa
-![](https://habrastorage.org/getpro/habr/post_images/1f8/03c/f40/1f803cf40067b629be332b8c8d09fba2.png)
 **PfSense**
 PfSense to system operacyjny, który powstał na bazie FreeBSD. W kontekście pełnienia ról sieciowych jest to ogromna zaleta – zarówno FreeBSD, jak i inne systemy z rodziny BSD są bowiem rozwijane właśnie z myślą o usługach sieciowych. Szczególny nacisk położono na stabilność działania oraz bezpieczeństwo. Dobrze skonfigurowany system będzie działał bez problemów przez długie lata, a ewentualne przestoje najczęściej będą wynikać z problemów sprzętowych.Trzeba przyznać, że twórcy pfSense bardzo celnie wybrali fundament dla swoich dalszych prac.
 
