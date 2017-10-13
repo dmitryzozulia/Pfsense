@@ -8,7 +8,7 @@ Użyte w nazwie systemu litery „pf&quot; zdradzają użycie oprogramowanie Pac
 
 Podobnie jak wiele innych systemów operacyjnych przeznaczonych do serwowania usług sieciowych pfSense ma graficzny interfejs użytkownika. Wykorzystywany jest on do konfiguracji poszczególnych usług sieciowych, monitoringu, nadzorowania stanu pracy serwera oraz szybkiego instalowania nowych funkcji. Niemal wszystkie czynności można wykonać bez konieczności wpisywania komend powłoki systemowej, choć ta jest dostępna i oferuje nieco większe możliwości.
 
-**&gt; PODSTAWOWE FUNKCJE PFSENSE**
+**PODSTAWOWE FUNKCJE PFSENSE**
 
 Jedną z funkcji, jaką może pełnić pfSense, jest firewall. Filtrowanie ruchu sieciowego odbywa się z wykorzystaniem reguł oraz przy użyciu dodatkowych, często ciekawych, mechanizmów. Należy do nich m.in. p0f – narzędzie wykorzystywane przez pfSense do rozpoznawania systemu operacyjnego urządzenia generującego w danej chwili ruch sieciowy.
 
