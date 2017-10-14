@@ -14,3 +14,4 @@ Jedną z funkcji, jaką może pełnić pfSense, jest firewall. Filtrowanie ruchu
 
 ### [Instalacja PFsense](instalacja_pfsense.md)
 ### [Firewall](firewall.md)
+### [Instalacja Snort](Snort.md)
