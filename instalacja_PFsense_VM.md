@@ -1,4 +1,5 @@
-Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet będą wchodzić najpierw, a późnej już na fizyczny komputer, wtedy jest możliwość korzystania z firewallu Pfsense.
+### Instalacja PFsense ###
+Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet będą wchodzić najpierw, a późnej już na fizyczny komputer, wtedy można wykorzystać wszystkie możliwości Pfsense.
 
 - Najpierw mamy ściągnąć plik dla instalacji ze strony internetowej: https://www.pfsense.org/download/
 ![](https://pp.userapi.com/c639222/v639222640/4e6e7/loBfxpjMBJg.jpg)
@@ -58,7 +59,22 @@ Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet b�
 
 - Instalacja jest zakończona 
 
-![](https://pp.userapi.com/c637324/v637324422/4fdc4/R5N5Q8NgsX8.jpg)
 
 
+### Podstawowa konfiguracja firewallu PFsense ###
+Na początku są wyłączone wszytkie porty i wszystkie protokoły sieci internet.
+- Włączamy http i port 80
 
+![](https://pp.userapi.com/c841638/v841638139/2839c/PMw4cMRGO1Q.jpg)
+
+- Włączamy https i port 443
+
+![](https://pp.userapi.com/c841638/v841638139/283a6/Qm6U6083aas.jpg)
+
+- Włączamy DNS i port 53
+
+![](https://pp.userapi.com/c841638/v841638139/283b0/6adKZHW0g0k.jpg)
+
+Tak wygłąda tabela firewalla 
+
+![](https://pp.userapi.com/c841638/v841638139/28366/ePq7JWgHaxs.jpg)
