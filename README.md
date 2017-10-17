@@ -1,6 +1,14 @@
 ![](https://habrastorage.org/getpro/habr/post_images/1f8/03c/f40/1f803cf40067b629be332b8c8d09fba2.png)
 # Pfsense
-Instalacja, instrukcja, konfiguracja podstawowa
+***Instalacja, instrukcja, konfiguracja podstawowa***
+
+**Opisanie wszystkich opcji firewallu:** [Firewall w PFsense](firewall.md)
+
+**Instalacja Pfsense na maszynę wirtualną i podstawowa konfiguracja firewallu:** [Pfsense na maszynie wirtualnej](instalacja_PFsense_VM.md)
+
+**Instalacja PFsense na urządzeniu fizycznym:** [Instalacja PFsense na system fizyczny](instalacja_pfsense.md)
+
+
 
 **PfSense**
 
@@ -14,6 +22,5 @@ Podobnie jak wiele innych systemów operacyjnych przeznaczonych do serwowania us
 
 Jedną z funkcji, jaką może pełnić pfSense, jest firewall. Filtrowanie ruchu sieciowego odbywa się z wykorzystaniem reguł oraz przy użyciu dodatkowych, często ciekawych, mechanizmów. Należy do nich m.in. p0f – narzędzie wykorzystywane przez pfSense do rozpoznawania systemu operacyjnego urządzenia generującego w danej chwili ruch sieciowy.
 
-### [Instalacja PFsense](instalacja_pfsense.md)
-### [Firewall](firewall.md)
-### [Instalacja Snort](Snort.md)
+
+
