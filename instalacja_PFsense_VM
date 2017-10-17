@@ -1,3 +1,0 @@
-Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet będą wchodzić najpierw, a późnej już na fizyczny komputer, wtedy jest możliwość korzystania z firewallu Pfsense.
-- Najpierw mamy ściągnąć plik dla instalacji ze strony internetowej: https://www.pfsense.org/download/
-![](https://pp.userapi.com/c639222/v639222640/4e6e7/loBfxpjMBJg.jpg)
