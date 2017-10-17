@@ -22,5 +22,16 @@ Podobnie jak wiele innych systemów operacyjnych przeznaczonych do serwowania us
 
 Jedną z funkcji, jaką może pełnić pfSense, jest firewall. Filtrowanie ruchu sieciowego odbywa się z wykorzystaniem reguł oraz przy użyciu dodatkowych, często ciekawych, mechanizmów. Należy do nich m.in. p0f – narzędzie wykorzystywane przez pfSense do rozpoznawania systemu operacyjnego urządzenia generującego w danej chwili ruch sieciowy.
 
+*Zródla informacji:*
+
+http://www.it-professional.pl/archiwum/art,4689,pfsense-szosty-zmysl-sieci.html
+
+https://www.thomas-krenn.com/pl/wiki/Instalacja_firewalla_open_source_pfSense
+
+http://www.seczone.ru/index.php/stati/14-virtualization/1-pfsense
+
+http://net-masters.pl/pfsense-router-firewall/ 
+
+https://ru.wikipedia.org/wiki/PfSense
 
 
