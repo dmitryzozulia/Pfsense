@@ -19,14 +19,14 @@ Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet b�
 
 - Konfiguracja sieci w systemie Windows(nie będzie dostępu od internetu do konca konfiguracji)
  
- - Wyłaczamy wszystko opróc VirtualBox driver(dla fizycznego) 
+  - Wyłaczamy wszystko opróc VirtualBox driver(dla fizycznego) 
  
- ![](https://pp.userapi.com/c637324/v637324640/50fd3/vbvizjL2a7k.jpg)
+  ![](https://pp.userapi.com/c637324/v637324640/50fd3/vbvizjL2a7k.jpg)
  
- - Włączamy wszystko i konfigurujemy ipv4 w taki sposób
+  - Włączamy wszystko i konfigurujemy ipv4 w taki sposób
  
- ![](https://pp.userapi.com/c637324/v637324640/50fe5/cpeFYKuDFWY.jpg)
- ![](https://pp.userapi.com/c637324/v637324640/50fee/e8dY6WHVSl4.jpg)
+  ![](https://pp.userapi.com/c637324/v637324640/50fe5/cpeFYKuDFWY.jpg)
+  ![](https://pp.userapi.com/c637324/v637324640/50fee/e8dY6WHVSl4.jpg)
 
 - Teraz można urochomić wirtualną maszyne i dalej pójdzie instalacja PFsense. Po instalacji maszyna będzie zresetowana, i wtedy mamy wyćiągnąć dysk z wirtualnego napędu.
 
@@ -59,7 +59,7 @@ Instalacja PFsense na wirtualną maszynę, w którą pakiety z sieci internet b�
 
 - Instalacja jest zakończona 
 
-
+![](https://pp.userapi.com/c637324/v637324422/4fdc4/R5N5Q8NgsX8.jpg)
 
 ### Podstawowa konfiguracja firewallu PFsense ###
 Na początku są wyłączone wszytkie porty i wszystkie protokoły sieci internet.
