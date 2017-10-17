@@ -2,10 +2,10 @@
 
 1. Z live CD with Installer
   - Wykorzystać do instalacji  **Live CD with Installer** , które może zostać pobrane ze strony pfSense -  [pfSense Download Mirrors](https://www.pfsense.org/download/mirror.php?section=downloads#mirrors)
-  - Pobrany plik iso najlepiej udostępnić systemowi docelowemu za pośrednictwem funkcji eksportu w konsoli KVM modułu IPMI. Następnie uruchomić system z wirtualnego napędu. Oczywiście jako alternatywa może zostać nagrane iso na płytę CD i z niej uruchomiony system.
+  - Pobrany plik iso ma zostać nagrany na płytę CD i z niej uruchomiony system.
 2. Z live CD with Installer na kluczu USB
   - Wykorzystać do instalacji **Live CD with Installer (on USB Memstick)**, które może zostać pobrane ze strony pfSense. Jako &quot;console&quot; wybrać  **VGA**  -  [pfSense Download Mirrors](https://www.pfsense.org/download/mirror.php?section=downloads#mirrors)
-  - Odpowiednio skonfigurować pendrive:
+  - Zapisać na pendrive plik iso i uruchomić z nim system. 
 
 **Procedura Instalacji:**
 
@@ -84,3 +84,5 @@
 - Dashboard udostępnia dobry przegląd aktualnego stanu.
 
  ![](https://pp.userapi.com/c639620/v639620529/4ef11/YVLpUDc_2SU.jpg)
+ 
+**Informacja jest pobrana ze strony internetowej: https://www.thomas-krenn.com/pl/wiki/Instalacja_firewalla_open_source_pfSense**
