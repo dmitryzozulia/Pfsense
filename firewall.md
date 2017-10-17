@@ -33,5 +33,6 @@ Większość firewalli nie posiada lub ma bardzo ubogą możliwość kontroli ta
   - High latency – pomocne dla łączy z dużym opóźnieniem, jak np. łącza satelitarne – wydłuża czas trwania połączeń
   - Aggressive – zakańcza połączenia znacznie szybciej, efektywniej używa zasoby, jednak może wystąpić odrzucanie spodziewanych połączeń
   - Conservative – stara się zapobiegać odrzucaniu spodziewanych połączeń kosztem zwiększonego zużycia CPU i pamięci RAM
-  ** Informacja jest pobrana ze strony internetowej: http://net-masters.pl/pfsense-router-firewall/ **
+  
+  **Informacja jest pobrana ze strony internetowej: http://net-masters.pl/pfsense-router-firewall/**
  
